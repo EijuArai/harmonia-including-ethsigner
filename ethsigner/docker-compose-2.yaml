@@ -1,0 +1,26 @@
+version: '3.6'
+networks:
+  services_besu2:
+    external: true
+services:
+  ethsignerProxy2:
+    image: consensys/ethsigner
+    command: [
+      "--chain-id=55755",
+      "--http-listen-host=0.0.0.0",
+      "--http-listen-port=18545",
+      "--downstream-http-port=8545",
+      "--downstream-http-host=services-besu2-1",
+      "file-based-signer",
+      "-k",
+      "/opt/ethsigner/keyfile",
+      "-p",
+      "/opt/ethsigner/passwordfile"
+    ]
+    volumes:
+      - "./config/ethsigner2/password:/opt/ethsigner/passwordfile"
+      - "./config/ethsigner2/key:/opt/ethsigner/keyfile"
+    ports:
+      - 17545:18545/tcp
+    networks:
+      - services_besu2
