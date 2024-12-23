@@ -43,27 +43,27 @@
       "HTUSUS00GBP"
     ],
     "contexts": {
-      "interopService": "0x131B9A8BF7f4BFd8cBdB0423C1e8AB66F064F41E",
-      "tokenAdmin": "0x049eb617fBa599E3D455Da70C6730ABc8Cc4221d"
+      "interopService": "0xabe249bd081b9a16f216e88ea2bfb0379d74e05e",
+      "tokenAdmin": "0x583843d307b748d20be5c730a1cd3b84854268a8"
     },
     "contracts": {
       "crosschainXvP": {
-        "address": "0xDEC388b5F1cF10aC14c708A5f39Cfd82D8707D9F"
+        "address": "0xB3770af4DF8e93A5351e66E9AbA228285F7f0951"
       },
       "crosschainFunctionCall": {
-        "address": "0x274B7F372F4be392069b50912D6F755718F6D48b"
+        "address": "0x53c388A9AD464e6019d97605A65852EB87d7bb8F"
       },
       "crosschainMessaging": {
-        "address": "0xB51106297f427e260FA31636bE1F3231d42F6790"
+        "address": "0x0B9F80Cb39732839cdFbAD4C617862b305ff52f9"
       },
       "assetTokenContract": {
-        "address": "0xe2fe958899860D93537FC2E72768D381D0925B0f"
+        "address": "0x29427B5427c79484723eDa2b25D9a5bC9062074E"
       },
       "validatorSetManager": {
-        "address": "0x059114C7Be809338c4DbF5E1f4B8096BF1d7173C"
+        "address": "0x5EdC1ac5804E4CC282e8575C24F8aeb4dA3fEE55"
       },
       "interopManager": {
-        "address": "0x4eaFc38eed7dFF0fdB7Ae8Fa7056d05D7b11031a"
+        "address": "0x3D53d93ab44BEA9e443fb9f9AD7ad01e192B6336"
       }
     }
   },
@@ -80,27 +80,27 @@
       "HTGBGB00USD"
     ],
     "contexts": {
-      "interopService": "0x1657e3999D263706aF7349D1Af7c6cb88D7E7ffa",
-      "tokenAdmin": "0x06c3f482f18711be95adf106afa25cd13897fbe7"
+      "interopService": "0x0846ee894e9d73a98753e0e706cb4f91c1c853d1",
+      "tokenAdmin": "0x65193545882e410630c6129035cbd3b35b2c9ca4"
     },
     "contracts": {
       "crosschainXvP": {
-        "address": "0x9a0C97aB3f6D7A845E79Ec966d42575A66bB1fe1"
+        "address": "0xb8f86F94fDBCA51Ea5FB46e8AeF918f5A6e41312"
       },
       "crosschainFunctionCall": {
-        "address": "0x838a8B9649bf5548562b52aa9c059430b90f7237"
+        "address": "0x8D65051FcEB1176001103265785B2924fBc11F19"
       },
       "crosschainMessaging": {
-        "address": "0xaC7bd317a96De4deC388b4C65F9D964db9329B59"
+        "address": "0xD109201EB7FeB349AbDA64d6Df8B62F024D1329D"
       },
       "assetTokenContract": {
-        "address": "0xEce5b0d6223D6a3BCC44FEEAe838833b06a6e959"
+        "address": "0xaaC4eDd43C362426238dB0E17f8a743bc05479f7"
       },
       "validatorSetManager": {
-        "address": "0x17D6883E14015b76ADa9DF6eE82b6cCB3504706b"
+        "address": "0x68D0BACCb89efCDbbD15022a1313F7b817E2C6F1"
       },
       "interopManager": {
-        "address": "0xfAfc4678263b4025eDa6eC43bBFE669cE637CF53"
+        "address": "0xFD8410807E950E6406590E6c69153101D11FCAA1"
       }
     }
   }

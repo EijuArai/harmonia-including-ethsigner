@@ -134,15 +134,15 @@ async function main() {
       {
         cordaNetworkId: 0, // Remote Corda ledger
         cordaPartyAKey:
-          "0x620c04ee384944742df1e9e5d7cb93b3f9a86fb825b02b193ea0e5d6c7247882",
+          "0xe7cde091a026eeb55d4ff2c5b111fd4d1a280f26a16799aca138d4f02cfca4f7",
         cordaPartyALocalId: "HTUSUS00GBP",
         cordaPartyARemoteId: "Tz1QYXJ0eUEsIEw9TG9uZG9uLCBDPUdC", // O=PartyA, L=London, C=GB
         cordaPartyBKey:
-          "0x716926e7802e36b671695704e188391fdb031cd1234dbff3977544b83fae6be2",
+          "0x0a074c1f8fa27fe09ae14c33e5bab2140275fdb147991e2f898b29ed45c22fa4",
         cordaPartyBLocalId: "HTGBGB00GBP",
         cordaPartyBRemoteId: "Tz1QYXJ0eUIsIEw9TmV3IFlvcmssIEM9VVM=", // O=PartyB, L=New York, C=US
         cordaNotaryKey:
-          "0xfe8c855fca103efb7de979e4bc81659867c7fbb384d65782c4b1636acf262f02",
+          "0xfd68ad9b80ca1f510968bfb6a5d04da6d2508546b990c554de41746b129d1a2b",
         cordaParameterHandlers: cordaParameterHandlers,
       },
       {
@@ -170,15 +170,15 @@ async function main() {
       {
         cordaNetworkId: 0, // Remote Corda ledger
         cordaPartyAKey:
-          "0x620c04ee384944742df1e9e5d7cb93b3f9a86fb825b02b193ea0e5d6c7247882",
+          "0xe7cde091a026eeb55d4ff2c5b111fd4d1a280f26a16799aca138d4f02cfca4f7",
         cordaPartyALocalId: "HTGBGB00USD",
         cordaPartyARemoteId: "Tz1QYXJ0eUEsIEw9TG9uZG9uLCBDPUdC", // O=PartyA, L=London, C=GB
         cordaPartyBKey:
-          "0x716926e7802e36b671695704e188391fdb031cd1234dbff3977544b83fae6be2",
+          "0x0a074c1f8fa27fe09ae14c33e5bab2140275fdb147991e2f898b29ed45c22fa4",
         cordaPartyBLocalId: "HTUSUS00USD",
         cordaPartyBRemoteId: "Tz1QYXJ0eUIsIEw9TmV3IFlvcmssIEM9VVM=", // O=PartyB, L=New York, C=US
         cordaNotaryKey:
-          "0xfe8c855fca103efb7de979e4bc81659867c7fbb384d65782c4b1636acf262f02",
+          "0xfd68ad9b80ca1f510968bfb6a5d04da6d2508546b990c554de41746b129d1a2b",
         cordaParameterHandlers: cordaParameterHandlers,
       },
       {
